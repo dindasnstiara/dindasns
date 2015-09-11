@@ -1,0 +1,9 @@
+module Nitip where
+
+import Data.List
+
+x = 2
+
+fst' (a, b) = a
+
+snd' (a, b) = b
